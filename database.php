@@ -4,7 +4,7 @@ class Database
     private static $dbName = 'id12225415_cis355' ;
     private static $dbHost = 'localhost' ;
     private static $dbUsername = 'id12225415_msimon';
-    private static $dbUserPassword = 'Football24!';
+    private static $dbUserPassword = 'password';
      
     private static $cont  = null;
      
